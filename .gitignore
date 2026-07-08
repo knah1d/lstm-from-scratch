@@ -2,3 +2,9 @@
 .claude
 core/__pycache__
 tests/__pycache__
+__pycache__/
+*.pyc
+
+# generated data/models — history.db and raw_history.txt contain the user's real shell history
+data/
+models/
